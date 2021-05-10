@@ -1,0 +1,15 @@
+body{
+    background: lightgray;
+    font-size:0.8em;
+    letter-spacing: 0em;
+}
+.container{
+    max-width: 400px;
+}
+.icon{
+    position:relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
